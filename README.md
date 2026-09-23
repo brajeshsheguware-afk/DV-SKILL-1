@@ -5,7 +5,7 @@
 This project is about analyzing **Superstore sales data** using Python.
 The dataset is loaded and analyzed using Pandas and NumPy. Different charts are created using Matplotlib and Seaborn to understand the sales data.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
